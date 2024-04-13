@@ -1,0 +1,2 @@
+print("natsu")
+print("monji")
